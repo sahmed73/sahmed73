@@ -1,5 +1,7 @@
 # Shihab Ahmed
 
+![Profile views](https://komarev.com/ghpvc/?username=sahmed73&label=PROFILE+VIEWS&color=1c2430&style=for-the-badge)
+
 PhD candidate in Mechanical Engineering at UC Merced ([Martini Research Group](https://faculty.ucmerced.edu/amartini/)). I use generative AI, molecular simulation, and interpretable machine learning to design better lubricant molecules.
 
 **[Website](https://sahmed73.github.io)** · [CV](https://sahmed73.github.io/assets/Shihab_Ahmed_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=mw8tNwoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/shihab73/) · [X](https://x.com/Shihab_arup)
